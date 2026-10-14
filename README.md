@@ -1,8 +1,1 @@
-# TP : Verrouillage Optimiste avec JPA et Hibernate
-
-Gestion de la concurrence avec l'annotation @Version et resolution de conflits (OptimisticLockException).
-
-## Execution
-```bash
-mvn clean compile exec:java
-```
+<img width="1770" height="842" alt="image" src="https://github.com/user-attachments/assets/9ed63070-b5ab-4f86-912d-7f66a52d0880" />
